@@ -199,4 +199,5 @@ hr {
 }
 .nft__img:hover .image-overlay{
     display: block;
+    cursor: pointer;
 }
